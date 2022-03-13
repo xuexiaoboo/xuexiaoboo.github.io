@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/03/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87blog/</loc>
+    <loc>http://hexoblog.xuexiaoboo.cn/2022/03/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87blog/</loc>
     
-    <lastmod>2022-03-12</lastmod>
+    <lastmod>2022-03-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2022/03/12/hello-world/</loc>
+    <loc>http://hexoblog.xuexiaoboo.cn/categories/index.html</loc>
+    
+    <lastmod>2022-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexoblog.xuexiaoboo.cn/tags/index.html</loc>
+    
+    <lastmod>2022-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hexoblog.xuexiaoboo.cn/2022/03/12/hello-world/</loc>
     
     <lastmod>2022-03-12</lastmod>
     
@@ -21,13 +39,27 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://hexoblog.xuexiaoboo.cn/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://hexoblog.xuexiaoboo.cn/tags/init/</loc>
+    <lastmod>2022-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://hexoblog.xuexiaoboo.cn/categories/stu/</loc>
+    <lastmod>2022-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
