@@ -40,7 +40,7 @@
 
   <url>
     <loc>http://hexoblog.xuexiaoboo.cn/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +48,7 @@
   
   <url>
     <loc>http://hexoblog.xuexiaoboo.cn/tags/init/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -57,7 +57,7 @@
   
   <url>
     <loc>http://hexoblog.xuexiaoboo.cn/categories/stu/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
