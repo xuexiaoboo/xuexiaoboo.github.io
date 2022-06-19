@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Grow‘s Bolg</title>
+  <title>Bald‘s Bolg</title>
   
   
   <link href="http://hexoblog.xuexiaoboo.cn/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://hexoblog.xuexiaoboo.cn/</id>
   
   <author>
-    <name>花名</name>
+    <name>Bald</name>
     
   </author>
   
